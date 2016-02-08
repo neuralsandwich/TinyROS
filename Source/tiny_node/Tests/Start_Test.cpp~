@@ -1,0 +1,6 @@
+#include "tiny_ros_node.h"
+#include "gtest/gtest.h"
+
+TEST(tiny_ros_node, CreateNode) {
+  EXPECT_TRUE(false);
+};
